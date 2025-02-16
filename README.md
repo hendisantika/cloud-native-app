@@ -9,9 +9,10 @@
    application, containerizing it, deploying it on Kubernetes, and securing, monitoring, and managing it using Istio.
 
     What You’ll Learn:
-    ✅ How to develop a microservices-based Java app
-    ✅ How to containerize and deploy it on Kubernetes
-    ✅ How to enhance it with Istio (Traffic Routing, Security, Observability)
+
+       ✅ How to develop a microservices-based Java app
+       ✅ How to containerize and deploy it on Kubernetes
+       ✅ How to enhance it with Istio (Traffic Routing, Security, Observability)
 
 2. Prerequisites
    Before we dive in, ensure you have the following tools installed:
